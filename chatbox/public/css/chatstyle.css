@@ -1,0 +1,148 @@
+#content{
+  height:20em;
+  width:35em;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-y:auto;
+  margin-bottom:1em;
+  display: flex;
+  flex-direction:
+  column;
+  background-color:#293852;
+  border-radius: 20px;
+}
+
+.chatentryuser{
+  margin-left: auto;
+  margin-right:5pt;
+  text-align:right;
+}
+
+.chatpreuser{
+  margin-bottom:5pt;
+  max-width: 20em;
+  overflow-wrap: break-word;
+  display: inline-block;
+  padding-left:3pt;
+  padding-right: 3pt;
+  border: 2px solid #4B98F4;
+  border-radius: 10px;
+  background-color: #4B98F4;
+  color:white;
+
+}
+
+.chatprenotuser{
+
+  margin-bottom:5pt;
+  max-width: 20em;
+  overflow-wrap: break-word;
+  display: inline-block;
+  padding-left:3pt;
+  padding-right: 3pt;
+  border: 2px solid #A9A9A9;
+  border-radius: 10px;
+  background-color: #A9A9A9;
+  color:white;
+
+}
+
+.chatentrynotuser{
+  margin-right: auto;
+  margin-left:5pt;
+  text-align:left;
+}
+
+pre{
+  white-space: pre-wrap;
+  font-family:Nunito;
+  font-size:12pt;
+}
+
+.user{
+  font-family: sans-serif;
+  font-size:10pt;
+  color:#bbbfbd;
+  text-align: right;
+  padding:5pt;
+}
+
+.notuser{
+  font-family: sans-serif;
+  font-size:10pt;
+  color:#bbbfbd;
+  text-align: left;
+  padding:5pt;
+}
+
+
+
+
+/* #content{
+  height:20em;
+  width:35em;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-y:auto;
+  margin-bottom:1em;
+  display: flex;
+  flex-direction:
+  column-reverse;
+  background-color:#293852;
+  border-radius: 20px;
+}
+
+.chatentryuser{
+  margin-bottom:5pt;
+  max-width: 25em;
+  overflow-wrap: break-word;
+  display: inline-block;
+  padding-left:3pt;
+  padding-right: 3pt;
+  text-align:right;
+  border: 2px solid #4B98F4;
+  border-radius: 10px;
+  background-color: #4B98F4;
+  margin-left: auto;
+  margin-right:5pt;
+  color:white;
+
+}
+
+.chatentrynotuser{
+  margin-bottom:5pt;
+  max-width: 15em;
+  overflow-wrap: break-word;
+
+  padding-left:3pt;
+  padding-right: 3pt;
+  margin-left: 5pt;
+  text-align:left;
+  border: 2px solid #A9A9A9;
+  border-radius: 10px;
+  background-color: #A9A9A9;
+  margin-right: auto;
+  color:white;
+
+}
+
+pre{
+  white-space: pre-wrap;
+  font-family:Nunito;
+  font-size:12pt;
+}
+
+.user{
+  font-family: sans-serif;
+  font-size:10pt;
+  color:#bbbfbd;
+  text-align: right;
+  padding:5pt;
+}
+.notuser{
+  font-family: sans-serif;
+  font-size:10pt;
+  color:#bbbfbd;
+  text-align: left;
+  padding:5pt;
+} */
